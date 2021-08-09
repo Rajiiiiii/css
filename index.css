@@ -1,0 +1,11 @@
+
+h1{
+    color: slateblue;
+}
+img{
+    width:200px;
+    height: 200px;
+    border:1cm salmon;
+    background-color: skyblue;
+    padding: 2cm;
+}
